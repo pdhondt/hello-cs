@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/peter/Documents/Projects/dotnet/helloWorld/helloWorld.csproj": {}
+    "/home/peter/Documents/Projects/dotnet/helloWorld/main/helloWorld.csproj": {}
   },
   "projects": {
-    "/home/peter/Documents/Projects/dotnet/helloWorld/helloWorld.csproj": {
+    "/home/peter/Documents/Projects/dotnet/helloWorld/main/helloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/peter/Documents/Projects/dotnet/helloWorld/helloWorld.csproj",
+        "projectUniqueName": "/home/peter/Documents/Projects/dotnet/helloWorld/main/helloWorld.csproj",
         "projectName": "helloWorld",
-        "projectPath": "/home/peter/Documents/Projects/dotnet/helloWorld/helloWorld.csproj",
+        "projectPath": "/home/peter/Documents/Projects/dotnet/helloWorld/main/helloWorld.csproj",
         "packagesPath": "/home/peter/.nuget/packages/",
-        "outputPath": "/home/peter/Documents/Projects/dotnet/helloWorld/obj/",
+        "outputPath": "/home/peter/Documents/Projects/dotnet/helloWorld/main/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/peter/.nuget/NuGet/NuGet.Config"
